@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="4.0" type="plugin" group="system">
+    <name>PLG_SYSTEM_ZEPTOMAILER</name>
+    <author>Zoho Mail</author>
+	<creationDate>April 2023</creationDate>
+    <authorEmail>zmintegration@zohomail.com</authorEmail>
+    <authorUrl>http://zoho.com</authorUrl>
+    <version>1.0.0</version>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <description>PLG_SYSTEM_ZEPTOMAILER_DESC</description>
+	<copyright>Zoho Corporation</copyright>
+    <files>
+        <folder>mailer</folder>
+        <file plugin="zeptomailer">zeptomailer.php</file>
+    </files>
+    <languages folder="language">
+        <language tag="en-GB">en-GB/en-GB.plg_system_zeptomailer.sys.ini</language>
+    </languages>
+</extension>
+ 
