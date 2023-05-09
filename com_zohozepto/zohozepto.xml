@@ -17,7 +17,7 @@
 
     <administration>
         <!-- The link that will appear in the Admin panel's "Components" menu -->
-        <menu link="index.php?option=com_zohozepto">Zoho Zepto Mail</menu>
+        <menu>Zoho Zepto Mail</menu>
 		<submenu>
 			<menu link="option=com_zohozepto">COM_ZOHOZEPTO_CONFIGURE_ACCOUNT</menu>
 			<menu link="option=com_zohozepto&amp;view=test">COM_ZOHOZEPTO_TEST_MAIL</menu>
