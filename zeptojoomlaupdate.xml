@@ -11,7 +11,7 @@
 <tags>
 <tag>stable</tag>
 </tags>
-<targetplatform name="joomla" version="4.0"/>
-<client_id>1</client_id>
+<targetplatform name="joomla" version="4.[0]"/>
+<client>administrator</client>
 </update>
 </updates>
