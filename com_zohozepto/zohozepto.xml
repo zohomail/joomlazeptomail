@@ -43,7 +43,7 @@
         <plugin plugin="zeptomailer" group="system" />
     </plugins>
 	<updateservers>
-        <server type="extension" priority="1" name="com_zohozepto">https://workdrive.zohopublic.com/writer/open/ooxs7147d6eb81c0c494394b7930381faa5ec</server>
+        <server type="extension" priority="1" name="com_zohozepto">https://raw.githubusercontent.com/zohomail/joomlazeptomail/main/zeptojoomlaupdate.xml</server>
     </updateservers>
 
 </extension>
