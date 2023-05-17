@@ -1,12 +1,12 @@
 <updates>
 <update>
-<name>Zoho Zepto Mail</name>
+<name>Zoho ZeptoMail</name>
 <description>This is Zoho Zepto Mail 1.0.0</description>
-<element>com_zohozepto</element>
+<element>com_zohozeptomail</element>
 <type>component</type>
 <version>1.0.0</version>
 <downloads>
-<downloadurl type="full" format="zip">https://github.com/zohomail/joomlazeptomail/raw/main/com_zohozepto.zip</downloadurl>
+<downloadurl type="full" format="zip">https://github.com/zohomail/joomlazeptomail/raw/main/com_zohozeptomail.zip</downloadurl>
 </downloads>
 <tags>
 <tag>stable</tag>
