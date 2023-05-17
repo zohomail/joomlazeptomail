@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="4.0" type="plugin" group="system">
+<extension version="4.0" type="plugin" group="system" method="upgrade">
     <name>PLG_SYSTEM_ZEPTOMAILER</name>
     <author>Zoho Mail</author>
 	<creationDate>April 2023</creationDate>
